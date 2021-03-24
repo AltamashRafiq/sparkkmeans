@@ -15,6 +15,8 @@ AmazonSageMakerFullAccess
 
 ### Results
 
+Examples of cluster predictions:
+
 <img src="https://github.com/AltamashRafiq/sparkkmeans/blob/main/img1.png" width="300" height="300">
 
 <img src="https://github.com/AltamashRafiq/sparkkmeans/blob/main/img2.png" width="300" height="300">
