@@ -15,4 +15,4 @@ AmazonSageMakerFullAccess
 
 ### Results
 
-![Sample Cluster](https://github.com/AltamashRafiq/sparkkmeans/blob/main/img1.png?raw=true=50x)
+![Sample Cluster](https://github.com/AltamashRafiq/sparkkmeans/blob/main/img1.png?raw=true){:height="50%" width="50%"}
