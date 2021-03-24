@@ -12,3 +12,7 @@ When replicating this demo via AWS SageMaker, please ensure that you IAM roles h
 AmazonS3FullAccess
 AmazonSageMakerFullAccess
 ```
+
+### Results
+
+![Sample Cluster](https://github.com/altamashrafiq/sparkkmeans/img1.png?raw=true)
