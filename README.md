@@ -2,7 +2,7 @@
 
 In this repo, I demo the use of Amazon Web Services (AWS) SageMaker to do clustering on MNIST images using Apach Spark. MNIST is a dataset of 70,000 grayscale images of handwritten digits of size 28x28. The size of the MNIST dataset motivates the use of distributed computing via Spark for fast and efficient modeling. Please check **pyspark_mnist_kmeans.ipynb** for the code used in this demo.
 
-Demo Video:
+Demo Video: https://www.youtube.com/watch?v=v_bCTgwSHPI
 
 ### Setup
 
